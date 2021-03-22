@@ -6,19 +6,19 @@
 }
 /* Body style */
 body {
-    background-color: #d9dcd6;
+    background-color:blanchedalmond;
 }
 /* Header and navigation styles start */
 .header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cornflowerblue;
+    color:blanchedalmond;
+    }
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 100px;
 }
 
 .header h1 .seo {
@@ -56,6 +56,7 @@ nav ul {
 nav ul li {
     display: inline-block;
     margin-left: 25px;
+    text-decoration: underline;
 }
 
 nav a {
