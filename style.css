@@ -28,7 +28,7 @@ header nav ul li {
     display: inline;
 }
 header nav ul li a {
-    margin: 0 30px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 22px;
   }
@@ -46,9 +46,9 @@ header nav ul li a {
 }
 .bios {
     display: flex;
-    margin: 20px;
+    margin: 25px;
     text-align: left;
-    padding-left: 20px;
+    padding-left: 30px;
 }
 
 h2 {
@@ -57,7 +57,7 @@ h2 {
     font-size: 26px;
 }
 .bio {
-    padding-left: 15px;
+    padding-left: 20px;
 }
 .social ul li{
     display: inline-block;
