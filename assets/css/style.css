@@ -36,10 +36,10 @@ header nav ul li a {
   }
 /* Header and navigation styles end */
   
-/* Bottom right text */
+/* add style to text block */
 .text-block {
     position: absolute;
-    top: 220px;
+    top: 235px;
     right: 20px;
     background-color: black;
     color: white;
@@ -50,14 +50,12 @@ header nav ul li a {
 .bios {
     display: flex;
     margin: 20px;
-    text-align: left;
     padding-left: 20px;
 }
 
 h2 {
     border-right:2px solid rgb(138, 62, 74);
     padding-right: 15px;
-    text-align: left;
     display: flex;
     padding-bottom: 40px;
 }
@@ -73,19 +71,22 @@ h2 {
 .apps {
     padding-left: 20px;
 }
-.image {
-    float: right;
-}
 .contact {
-    text-align: right;
     display: flex;
     padding-top: 50px;
 }
+/* style img tags*/
+.image {
+    float: right;
+}
+
+/* add style to footer tags */
 footer {
     float: right;
     margin: 40px;
     padding-right: 400px;
 }
+/* <a> Element style*/
 a {
     font-size: 30px;
     padding-left: 20px;
