@@ -14,7 +14,7 @@ header {
 }
 
 header h1 {
-    font-size: 36px;
+    font-size: 50px;
     color:blanchedalmond;
     margin: 0;
     display: inline;
@@ -46,6 +46,7 @@ header nav ul li a {
     padding-left: 20px;
     padding-right: 20px;
 }
+/* apply style to About me, my work and contact me sections */
 .bios {
     display: flex;
     margin: 20px;
@@ -54,13 +55,38 @@ header nav ul li a {
 }
 
 h2 {
-    border-right: blue 2px solid;
+    border-right:2px solid rgb(138, 62, 74);
     padding-right: 15px;
+    text-align: left;
+    display: flex;
+    padding-bottom: 40px;
 }
 .bio {
     padding-left: 15px;
+    padding-top: 20px;
 }
 .social ul li{
     display: inline-block;
-    padding-left: 50px;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+.apps {
+    padding-left: 20px;
+}
+.image {
+    float: right;
+}
+.contact {
+    text-align: right;
+    display: flex;
+    padding-top: 50px;
+}
+footer {
+    float: right;
+    margin: 40px;
+    padding-right: 400px;
+}
+a {
+    font-size: 30px;
+    padding-left: 20px;
 }
