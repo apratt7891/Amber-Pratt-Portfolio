@@ -94,11 +94,11 @@ h2 {
 /* add style to footer tags */
 footer {
     float: right;
-    margin: 40px;
-    padding-right: 400px;
+    margin: 45px;
+    padding-right: 550px;
 }
 /* <a> Element style*/
 a {
     font-size: 30px;
-    padding-left: 20px;
+    padding-left: 30px;
 }
