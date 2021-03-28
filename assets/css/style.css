@@ -56,7 +56,6 @@ header nav ul li a {
 h2 {
     border-right:2px solid rgb(138, 62, 74);
     padding-right: 15px;
-    display: flex;
     padding-bottom: 40px;
     text-align: right;
 }
@@ -70,10 +69,6 @@ h2 {
 }
 .apps {
     padding-left: 20px;
-}
-.contact {
-    display: flex;
-    padding-top: 60px;
 }
 /* style img tags*/
 .image {
