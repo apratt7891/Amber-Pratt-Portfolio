@@ -58,10 +58,10 @@ h2 {
     padding-right: 15px;
     display: flex;
     padding-bottom: 40px;
+    text-align: right;
 }
 .bio {
     padding-left: 15px;
-    padding-top: 20px;
 }
 .social ul li{
     display: inline-block;
@@ -73,7 +73,7 @@ h2 {
 }
 .contact {
     display: flex;
-    padding-top: 50px;
+    padding-top: 60px;
 }
 /* style img tags*/
 .image {
